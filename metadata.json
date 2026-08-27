@@ -1,0 +1,6 @@
+{
+  "name": "Hostel Search",
+  "description": "A simple mobile app to test searching hostel listings by location, name, and price.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
